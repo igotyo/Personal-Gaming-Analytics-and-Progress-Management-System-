@@ -34,12 +34,5 @@ HOW TO RUN
 12. Search player name such as Ali.
 13. Select a game in Filter by Game section.
 
-IMPORTANT CHECKS FOR VIVA
-- Add Player proves INSERT into players table.
-- Add Game proves INSERT into games table.
-- Record FPS Match proves foreign key relationship with players and games.
-- Update Story Progress proves insert/update logic.
-- Search Player proves SELECT and WHERE.
-- FPS Statistics proves COUNT, AVG, MAX.
-- Filter by Game proves JOIN and GROUP BY.
+
 
