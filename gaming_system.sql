@@ -61,7 +61,7 @@ INSERT INTO games (game_name, genre) VALUES
 ('Spider-Man', 'Story');
 
 INSERT INTO matches (player_id, game_id, kills, deaths, assists, accuracy, match_date) VALUES
-(1, 1, 18, 6, 4, 72.5, '2026-05-01'),
+(1, 1, 19, 6, 4, 72.5, '2026-05-01'),
 (1, 2, 22, 9, 7, 68.2, '2026-05-03'),
 (2, 2, 14, 7, 5, 61.8, '2026-05-04'),
 (3, 1, 25, 8, 6, 76.4, '2026-05-05');
